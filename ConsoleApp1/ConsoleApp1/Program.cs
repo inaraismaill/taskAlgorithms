@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Ədədin sadə və ya mürəkkəb olduğunu tapan alqoritm yazın.
+﻿//Ədədin sadə və ya mürəkkəb olduğunu tapan alqoritm yazın.
 
 //int num = 9;
 //bool simple = true;
@@ -62,3 +61,5 @@
 //    number /= 10;
 //}
 //Console.WriteLine("Daxil etdiyiniz reqem " + floor + " mertebelidir.");
+
+//bubbl sort
